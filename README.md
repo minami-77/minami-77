@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Minami 👋
+
+I am a former public sector specialist with experience in international relations, policy coordination, and education administration. 
+After completing a 24-week web development boot camp, where I learned Ruby on Rails, JavaScript, HTML, CSS, and more, I am transitioning into a bilingual developer career and seeking opportunities in Tokyo. 
+Driven by a desire to develop specialized technical skills, I pursued web development to apply my problem-solving and project management abilities in new ways.
+
 
 <!--
 **minami-77/minami-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
