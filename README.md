@@ -1,8 +1,38 @@
 ## Hi I'm Minami 👋
 
 I am a former public sector specialist with experience in international relations, policy coordination, and education administration. 
+
 After completing a 24-week web development boot camp, where I learned Ruby on Rails, JavaScript, HTML, CSS, and more, I am transitioning into a bilingual developer career and seeking opportunities in Tokyo. 
+
 Driven by a desire to develop specialized technical skills, I pursued web development to apply my problem-solving and project management abilities in new ways.
+
+<h3>Frontend</h3>
+<div class="skill-category  d-flex flex-wrap justify-content-center">
+  <img class="skill-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img class="skill-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img class="skill-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img class="skill-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img class="skill-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img class="skill-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+</div>
+
+
+<style>
+.skill-category{
+  padding: 1rem 0rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.skill-img{
+  width: 3rem;
+  height: auto;
+  margin: 0.5rem;
+}
+  
+</style>
+
 
 
 <!--
