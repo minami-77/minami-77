@@ -5,7 +5,7 @@
 
 <p align="center"> 💻 I’m currently working on web apps with Ruby on Rails and React</p>
 
-<p align="center"> 🌱 I’m currently learning React Typescript Python</p>
+<p align="center"> 🌱 I’m currently learning React, Typescript and Python</p>
 
 
 <h3 align="left">Connect with me:</h3>
