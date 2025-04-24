@@ -34,13 +34,8 @@ Portfolio(EN/JP) : <a href="https://minami-77.github.io/profile/" target="blank"
 </p>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minami-77&show_icons=true&locale=en&layout=compact" alt="minami-77" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minami-77&show_icons=true&locale=en" alt="minami-77" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minami-77&" alt="minami-77" /></p>
--->
+<!--END_SECTION:waka-->
 
 <!--
 **minami-77/minami-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,4 +50,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minami-77&show_icons=true&locale=en&layout=compact" alt="minami-77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minami-77&show_icons=true&locale=en" alt="minami-77" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minami-77&" alt="minami-77" /></p>
 -->
