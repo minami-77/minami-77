@@ -33,15 +33,16 @@ Portfolio(EN/JP) : <a href="https://minami-77.github.io/profile/" target="blank"
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </p>
 
+
+<h3 align="left">My weekly activities:</h3>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
+
 <!--
 **minami-77/minami-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -51,7 +52,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minami-77&show_icons=true&locale=en&layout=compact" alt="minami-77" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minami-77&show_icons=true&locale=en" alt="minami-77" /></p>
