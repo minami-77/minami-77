@@ -33,6 +33,9 @@ Portfolio(EN/JP) : <a href="https://minami-77.github.io/profile/" target="blank"
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minami-77&show_icons=true&locale=en&layout=compact" alt="minami-77" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minami-77&show_icons=true&locale=en" alt="minami-77" /></p>
