@@ -37,6 +37,10 @@ Portfolio(EN/JP) : <a href="https://minami-77.github.io/profile/" target="blank"
 <h3 align="left">My weekly activities:</h3>
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
