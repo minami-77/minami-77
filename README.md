@@ -38,9 +38,9 @@ Portfolio(EN/JP) : <a href="https://minami-77.github.io/profile/" target="blank"
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   21 hrs 22 mins  ████████████████████▓░░░░   83.09 %
-CSS          4 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JavaScript   21 hrs 20 mins  ███████████████████▓░░░░░   78.21 %
+CSS          5 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
