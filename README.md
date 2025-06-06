@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-LinkedIn : <a href="https://linkedin.com/in/linkedin.com/in/minami-t-46b56b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/minami-t-46b56b233" height="40" width="40" /></a> 
-Portfolio(EN/JP) : <a href="https://minami-77.github.io/profile/" target="blank"><img align="center" src="https://minami-77.github.io/profile/images/logo_m_br.png" alt="portfolio-logo" height="40" width="40"/></a>
+LinkedIn :  <a href="https://linkedin.com/in/linkedin.com/in/minami-t-46b56b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/minami-t-46b56b233" height="40" width="40" /></a> 
+Portfolio(EN/JP) :  <a href="https://minami-77.github.io/profile/" target="blank"><img align="center" src="https://minami-77.github.io/profile/images/logo_m_br.png" alt="portfolio-logo" height="40" width="40"/></a>
 </p>
 
 
