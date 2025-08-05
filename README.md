@@ -41,17 +41,17 @@
 </p>
 
 
-<h3 align="left">My weekly activities:</h3>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
 <!--
+
+<h3 align="left">My weekly activities:</h3>
+<!--START_SECTION:waka-->
+```txt
+No activity tracked
+```
+<!--END_SECTION:waka-->
+
 **minami-77/minami-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -62,7 +62,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minami-77&show_icons=true&locale=en&layout=compact" alt="minami-77" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minami-77&show_icons=true&locale=en" alt="minami-77" /></p>
